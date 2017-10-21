@@ -1,0 +1,8 @@
+M6 W1
+M7 W2
+M2 W3
+M8 W4
+M1 W5
+M4 W6
+M5 W7
+M3 W8
